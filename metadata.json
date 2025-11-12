@@ -1,0 +1,7 @@
+{
+  "name": "SpaNearMe Virtual Receptionist",
+  "description": "A conversational AI chatbot that acts as a virtual receptionist for a medspa. It answers calls, provides a warm greeting, and instructs callers to leave their contact information for a callback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
